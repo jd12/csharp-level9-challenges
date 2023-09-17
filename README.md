@@ -1,4 +1,4 @@
-# csharp-level9-level10-challenges
+# csharp-level9-challenges
 
 ## Setup Development Branch
 After cloning the repository, run
@@ -28,11 +28,6 @@ to open it in VS code (note the `.` to denote the current directory)
 ## Watchtower
 ```csharp
 // Paste your Watchtower code in this block
-```
-
-## Discounted Inventory
-```csharp
-// Paste your Discounted Inventory code in this block
 ```
 
 ## Push your code
